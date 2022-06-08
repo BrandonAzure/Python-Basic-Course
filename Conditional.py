@@ -3,5 +3,5 @@ qualification = int(qualification)
 
 if(qualification < 700):
     print("go for not studying!")
-else :
+else:
     print("Very good!")
